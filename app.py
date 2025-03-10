@@ -4,7 +4,7 @@ from meal_plan import fetch_meal_plan
 from calorie_tracker import get_calories  # New module for calorie tracking
 
 # Hugging Face API Config
-HF_API_KEY = "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"
+HF_API_KEY = "key"
 MODEL_URL = "https://api-inference.huggingface.co/models/facebook/blenderbot-400M-distill"
 
 # Function to query Hugging Face model for chatbot
